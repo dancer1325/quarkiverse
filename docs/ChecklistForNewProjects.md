@@ -1,4 +1,6 @@
-Here is a checklist with the tasks to be performed on any new Quarkiverse extension repository: 
+* goal
+  * | start a new project | Quarkiverse org,
+    * ALL steps  
 
 # Requesting a new repository
 

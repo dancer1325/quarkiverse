@@ -1,15 +1,18 @@
 # Welcome to Quarkiverse Hub!
 
-The Quarkiverse GitHub organization provides repository hosting (including build, CI and release publishing setup) for Quarkus extension projects contributed by the community.
+* Quarkiverse GitHub organization
+  * provides, 
+    * about Quarkus extension projects,
+      * build,
+      * CI
+      * release publishing
 
-This repository serves several functions:
-
-- Host documentation for extension authors who wish to take advantage of the Quarkiverse Hub infrastructure. The docs are available on [this repository's wiki](https://github.com/quarkiverse/quarkiverse/wiki) and at [hub.quarkiverse.io](https://hub.quarkiverse.io).  
-- Host [issues](https://github.com/quarkiverse/quarkiverse/issues?q=is%3Aopen+is%3Aissue+label%3Atriage%2Fci-quarkiverse%2Ctriage%2Fci-quarkiverse-3) created by the [ecosystem CI](https://github.com/quarkusio/quarkus-ecosystem-ci#what-its-all-about)
+## documentation
+* [docs](docs)
 
 ## Onboarding an extension 
 
-Looking to onboard an extension? Here's the [quick link](https://github.com/quarkiverse/quarkiverse/wiki#getting-an-extension-onboarded). 
+* TODO: Looking to onboard an extension? Here's the [quick link](https://github.com/quarkiverse/quarkiverse/wiki#getting-an-extension-onboarded). 
 
 ## Updating the docs 
 
