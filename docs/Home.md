@@ -50,6 +50,7 @@
   * ⚠️!= Quarkus platform⚠️
 
 * Quarkus platform
+  * owned / EACH organization
   * ⚠️'s requirement⚠️
     * 👀ANY combination of the Quarkus extensions / NO conflict for each other👀
       * thanks to, BETWEEN extensions,
